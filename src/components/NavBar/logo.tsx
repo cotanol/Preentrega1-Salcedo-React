@@ -1,4 +1,4 @@
-import casinoRaptor from "../assets/casinoRaptor.png"
+import casinoRaptor from "../../assets/casinoRaptor.png"
 const Logo = () => {
 
 

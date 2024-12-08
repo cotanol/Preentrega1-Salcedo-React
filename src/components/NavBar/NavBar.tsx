@@ -1,5 +1,5 @@
+import IconoCarro from "./CartWidget";
 import Logo from "./logo";
-import IconoCarro from "./iconoCarro";
 import Nav from "./Nav";
 import { INav } from './Nav';
 
